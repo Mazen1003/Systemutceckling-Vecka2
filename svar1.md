@@ -1,25 +1,42 @@
-Waterfall 
+ï»¿# Waterfall  
 
-Plan: I Waterfall är allt bestämt redan från början. Man skriver ner alla funktioner man vill ha som tex i detta fall likes, följa och kommentera. Sedan sätter man upp en tidsplan med olika faser och detta är ofta ganska strikt med väldigt lite flexibilitet. 
+## Plan  
+I Waterfall Ã¤r allt bestÃ¤mt redan frÃ¥n bÃ¶rjan. Man skriver ner alla funktioner man vill ha, som t.ex. i detta fall **likes**, **fÃ¶lja** och **kommentera**.  
+Sedan sÃ¤tter man upp en tidsplan med olika faser, och detta Ã¤r ofta ganska strikt med vÃ¤ldigt lite flexibilitet.  
 
-Process: När man använder waterfall sker allt i faser. Det ser ut såhär Krav-design-utveckling-test-lansering.  Test av appen sker sent i processen och du får ingen feedback förens appen är lanserad. 
+## Process  
+NÃ¤r man anvÃ¤nder Waterfall sker allt i faser:  
+**Krav â†’ Design â†’ Utveckling â†’ Test â†’ Lansering**.  
 
-Resultat: Efter ca 1 år har du en färdig app vilket är lång tid och risken med denna metod är att när appen väl lanseras finns det en risk att användarna inte gillar appen. Detta eftersom appen inte testas förens den nästan är helt klar. 
+Test av appen sker sent i processen och du fÃ¥r ingen feedback fÃ¶rrÃ¤n appen Ã¤r lanserad.  
 
- 
+## Resultat  
+Efter ca 1 Ã¥r har du en fÃ¤rdig app, vilket Ã¤r lÃ¥ng tid.  
+Risken med denna metod Ã¤r att nÃ¤r appen vÃ¤l lanseras kan det hÃ¤nda att anvÃ¤ndarna inte gillar den, eftersom appen inte testas fÃ¶rrÃ¤n den nÃ¤stan Ã¤r helt klar.  
 
-Agile 
 
-Plan: I Agile börjar med några funktioner åt gången. Planeringen är väldigt flexibel och utgår från feedback av användarna. Nya funktioner lägg till löpande. 
+# Agile  
 
-Process: I Agile arbetar man i cykler oftast 2–4 veckor detta kallas för sprint. Så tex Sprint 1: Flöde och registrering, Sprint 2: Likes och kommentarer osv. 
+## Plan  
+I Agile bÃ¶rjar man med nÃ¥gra funktioner Ã¥t gÃ¥ngen.  
+Planeringen Ã¤r vÃ¤ldigt flexibel och utgÃ¥r frÃ¥n feedback av anvÃ¤ndarna.  
+Nya funktioner lÃ¤ggs till lÃ¶pande.  
 
-Detta testas av användarna som skickar tillbaka feedback hela tiden. 
+## Process  
+I Agile arbetar man i cykler (oftast 2â€“4 veckor), detta kallas fÃ¶r **sprint**.  
 
-Resultat: Man släpper en enkel version av appen tidigt efter ett par månader och förbättras steg för steg med hjälp av feedback av användarna. 
+Exempel:  
+- **Sprint 1:** FlÃ¶de och registrering  
+- **Sprint 2:** Likes och kommentarer  
 
- 
+Detta testas av anvÃ¤ndarna, som skickar tillbaka feedback hela tiden.  
 
-Mitt val  
+## Resultat  
+Man slÃ¤pper en enkel version av appen tidigt (efter ett par mÃ¥nader) och fÃ¶rbÃ¤ttrar den steg fÃ¶r steg med hjÃ¤lp av feedback frÃ¥n anvÃ¤ndarna.  
 
-Jag hade valt att använda Agile för att bygga en instagram-liknande app eftersom det är mer flexibelt och detta är viktigt när du bygger en social media app. För att trender ändras snabbt detta kan vi se när Tiktok lanserades och alla andra social medierna som tex instagram gjorde en liknade version som de kallar för reels. 
+
+# Mitt val  
+
+Jag hade valt att anvÃ¤nda **Agile** fÃ¶r att bygga en Instagram-liknande app eftersom det Ã¤r mer flexibelt, och detta Ã¤r viktigt nÃ¤r du bygger en social media-app.  
+
+Trender Ã¤ndras snabbt â€“ detta sÃ¥g vi nÃ¤r **TikTok** lanserades och alla andra sociala medier, som t.ex. Instagram, gjorde en liknande version som de kallar fÃ¶r **Reels**.  
